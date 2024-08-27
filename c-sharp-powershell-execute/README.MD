@@ -1,5 +1,10 @@
 For running powershell code from C# app.
 
+Needed Nuget:
+Microsoft.PowerShell.SDK
+System.Management.Automation
+
+
 Prebuilt functions includes:
 1. Get-ADUser
 2. Get-ADPrincipalGroupMembership
